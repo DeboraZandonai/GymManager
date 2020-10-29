@@ -1,0 +1,64 @@
+{
+  "members": [
+    {
+      "id": 1,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/60511927?s=460&u=dbab76ac12fab580382420fbcc0f96120d9413e0&v=4",
+      "name": "Debora zandonai",
+      "email": "debohzandonaii@gmail.com",
+      "birth": 946684800000,
+      "gender": "F",
+      "blood": "B+",
+      "weight": "50",
+      "height": "160"
+    },
+    {
+      "id": 2,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/60511927?s=460&u=dbab76ac12fab580382420fbcc0f96120d9413e0&v=4",
+      "name": "Debora Zandonai",
+      "email": "debohzandonaii@gmail.com",
+      "birth": 946684800000,
+      "gender": "F",
+      "blood": "A+",
+      "weight": "50",
+      "height": "160"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 7,
+      "name": "Debora Zandonai",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/60511927?s=460&u=dbab76ac12fab580382420fbcc0f96120d9413e0&v=4",
+      "gender": "F",
+      "birth": 0,
+      "created_at": 1601073076319,
+      "services": "JavaScript"
+    },
+    {
+      "id": 8,
+      "name": "Debora Zandonai",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/60511927?s=460&u=dbab76ac12fab580382420fbcc0f96120d9413e0&v=4",
+      "gender": "M",
+      "birth": 915148800000,
+      "created_at": 1601074027192,
+      "services": "NodeJS"
+    },
+    {
+      "id": 9,
+      "name": "Debora Zandonai",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/60511927?s=460&u=dbab76ac12fab580382420fbcc0f96120d9413e0&v=4",
+      "gender": "F",
+      "birth": 928540800000,
+      "created_at": 1601083509902,
+      "services": "CSS"
+    },
+    {
+      "id": 4,
+      "avatar_url": "https://avatars0.githubusercontent.com/u/60511927?s=460&u=dbab76ac12fab580382420fbcc0f96120d9413e0&v=4",
+      "name": "Debora Zandonai",
+      "birth": 1012521600000,
+      "gender": "F",
+      "services": "HTML",
+      "created_at": 1601397625423
+    }
+  ]
+}
