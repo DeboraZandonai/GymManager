@@ -3,7 +3,7 @@
 ![Badge](/github/login.gif)
 
 <h2>
-  👨‍💻 Tecnologias utilizadas
+  👨‍💻 Technologies used
 </h2>
 <ul>
   <li><h3><a href="https://imasters.com.br/front-end/nunjucks-template-engine-para-js">Nunjucks</a></h3></li>
@@ -14,25 +14,25 @@
 </ul>
 
 <h2>
-  📄 Funcionalidades
+  📄 Functionalities
 </h2>
 
 <ul>
-  <li>Cadastrar Instrutores;</li>
+  <li>Register Instructors;</li>
   <br />
-  <li>Editar, excluir instrutores;</li>
+  <li>Edit, delete instructors;</li>
   <br />
-  <li>Visualizar todos os instrutores;</li>
+  <li>View all instructors;</li>
   <br />
-  <li>Cadastrar Membros;</li>
+  <li>Register Members;</li>
   <br />
-  <li>Editar, excluir membros;</li>
+  <li>Edit, delete members;</li>
   <br />
-  <li>Visualizar todos os membros</li>
+  <li>View all members.</li>
 </ul>
 
 <h2>
-  🔍 Requisitos de software
+  🔍 Software requirements
 </h2>
 
 <ul>
@@ -40,70 +40,70 @@
   <li><h3><a href="https://yarnpkg.com/">Yarn</a></h3></li>
 </ul>
 
-<h2>💡 Deseja contribuir com esse projeto?</h2>
+<h2>💡 Do you want to contribute to this project?</h2>
 
-### Faça um fork utilizando a linha de comando oficial do GitHub
+### Fork using the official GitHub command line
 
 ```bash
 $ gh repo fork DeboraZandonai/Gym-Manager
 ```
 
-### Clone o seu fork e substitua o campo caminho por server, web ou mobile
+### Clone your fork and replace the path field with server, web or mobile
 
 ```bash
 $ git clone url-do-seu-fork && cd Gym-Manager
 ```
 
-### Crie uma branch com as suas features
+### Create a branch with your features
 
 ```bash
 $ git checkout -b minha-feature
 ```
 
-### Faça um commit das suas alterações
+### Commit your changes
 
 ```bash
 $ git commit -m 'feat: suas alterações'
 ```
 
-### Envie o código para a sua branch remota
+### Send the code to your remote branch
 
 ```bash
 $ git push origin minha-feature
 ```
 
-Depois que a sua pull request for aceita você pode deletar a sua branch.
+After your pull request is accepted you can delete your branch.
 
 <h2>
-  📌 Como rodar o projeto?
+  📌 How to run the project?
 </h2>
 
-### Clone o repositório para ter uma cópia do código em sua máquina
+### Clone the repository to have a copy of the code on your machine
 
 ```bash
 $ git clone https://github.com/DeboraZandonai/Gym-Manager.git
 ```
 
-### Navegue até a pasta do projeto
+### Navigate to the project folder
 
 ```bash
 $ cd Gym-Manager
 ```
 
-### Carregue as dependências
+### Load dependencies
 
 ```bash
 $ npm install
 ```
 
-### Rode o projeto
+### Run the project
 
 ```bash
 $ npm start
 ```
 
-## 📝 Licença
+## 📝 License
 
-Este projeto encontra-se sob a licença **MIT**. Para mais informações, acesse o arquivo **LICENSE**.
+This project is under the **MIT** license. For more information, access the file **LICENSE**.
 
 <h4 align=center>Made with ❤️ by <a href="https://www.linkedin.com/in/debora-zandonai-4ab092195/">Debora Zandonai</a></h4>
